@@ -4,3 +4,25 @@ background: -webkit-linear-gradient(to right, #f4791f, #659999);  /* Chrome 10-2
 background: linear-gradient(to right, #f4791f, #659999); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }#delete-form{ display:inline;} 
+
+#special{
+  background-image: url('https://cdn.pixabay.com/photo/2016/01/19/16/48/teepee-1149402_1280.jpg');
+	
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#landingalign{
+	
+/*  position:center; /* Position the background text */
+  text-align:center;
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 100px;
+	
+}
+#link1{
+	text-align:center;
+}
